@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vcXLdSZUl0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Pharmacy_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mulan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\mulan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\mulan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

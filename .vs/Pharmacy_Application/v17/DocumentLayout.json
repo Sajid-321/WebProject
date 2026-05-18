@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\wwwroot\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\wwwroot\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|c:\\users\\mulan\\source\\repos\\pharmacy_application\\pharmacy_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C62CBD-A1A5-40EA-A155-804B845D5F18}|Pharmacy_Application\\Pharmacy_Application.csproj|solutionrelative:pharmacy_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 851,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "Pharmacy_Application\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-17T08:19:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\api.js",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\wwwroot\\api.js",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\api.js",
+              "RelativeToolTip": "Pharmacy_Application\\wwwroot\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-17T07:26:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\app.js",
+              "RelativeToolTip": "Pharmacy_Application\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-17T07:12:37.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\wwwroot\\index.html",
+              "RelativeToolTip": "Pharmacy_Application\\wwwroot\\index.html",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-17T07:11:20.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Pharmacy_Application\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:08:16.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Services\\MedicineService.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Services\\MedicineService.cs",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Services\\MedicineService.cs",
+              "RelativeToolTip": "Pharmacy_Application\\Services\\MedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:07:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicines.json",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Data\\medicines.json",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Data\\medicines.json",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Data\\medicines.json",
+              "RelativeToolTip": "Pharmacy_Application\\Data\\medicines.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T07:06:15.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Models\\Medicine.cs",
+              "RelativeToolTip": "Pharmacy_Application\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:04:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pharmacy_Application\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T06:48:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\mulan\\source\\repos\\Pharmacy_Application\\Pharmacy_Application\\Program.cs",
+              "RelativeToolTip": "Pharmacy_Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T06:46:14.388Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

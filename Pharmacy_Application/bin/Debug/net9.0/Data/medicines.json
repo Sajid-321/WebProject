@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Pain reliever",
+    "ExpiryDate": "2026-06-10T00:00:00",
+    "Quantity": 50,
+    "Price": 20.5,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 17,
+    "FullName": "Letrozole",
+    "Notes": "",
+    "ExpiryDate": "2026-05-17T00:00:00",
+    "Quantity": 1,
+    "Price": 499.99,
+    "Brand": "HP"
+  },
+  {
+    "Id": 18,
+    "FullName": "Folic Acid",
+    "Notes": "",
+    "ExpiryDate": "2026-05-17T00:00:00",
+    "Quantity": 1,
+    "Price": 123,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 19,
+    "FullName": "Folic Acid2",
+    "Notes": "Pain reliever",
+    "ExpiryDate": "2026-05-17T00:00:00",
+    "Quantity": 2,
+    "Price": 2333,
+    "Brand": "HP"
+  }
+]

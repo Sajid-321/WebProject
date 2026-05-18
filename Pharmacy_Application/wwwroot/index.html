@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ABC Pharmacy</title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+
+<body>
+
+    <h1>Medicine Tracker</h1>
+
+    <!-- SEARCH -->
+    <input id="searchBox" placeholder="Search medicine..." />
+
+    <h2>Add Medicine</h2>
+
+    <form id="medicineForm">
+        <input placeholder="Full Name" id="fullName" required />
+        <input placeholder="Notes" id="notes" />
+        <input type="date" id="expiryDate" required />
+        <input type="number" id="quantity" placeholder="Quantity" required />
+        <input type="number" id="price" placeholder="Price" step="0.01" required />
+        <input placeholder="Brand" id="brand" required />
+        <button type="submit">Add</button>
+    </form>
+
+    <h2>Medicine List</h2>
+
+    <!-- ✔ UPDATED TABLE (WITH ACTIONS COLUMN) -->
+    <table class="medicine-table">
+
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Expiry</th>
+                <th>Qty</th>
+                <th>Price</th>
+                <th>Brand</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody id="tableBody">
+            <!-- JS will insert rows here -->
+        </tbody>
+
+    </table>
+
+    <footer class="footer">
+        <p>© 2026 ABC Pharmacy. All Rights Reserved.</p>
+    </footer>
+
+    <!-- SCRIPTS -->
+    <script src="api.js"></script>
+    <script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+wwwroot\api.js
+wwwroot\app.js
+wwwroot\index.html
+wwwroot\StyleSheet.css
+C:\Users\mulan\source\repos\Pharmacy_Application\Pharmacy_Application\wwwroot\api.js
+C:\Users\mulan\source\repos\Pharmacy_Application\Pharmacy_Application\wwwroot\app.js
+C:\Users\mulan\source\repos\Pharmacy_Application\Pharmacy_Application\wwwroot\index.html
+C:\Users\mulan\source\repos\Pharmacy_Application\Pharmacy_Application\wwwroot\StyleSheet.css
