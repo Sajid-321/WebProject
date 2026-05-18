@@ -53,5 +53,5 @@ ABCPharmacyApp/
 │   └── package.json
 │
 └── README.md
-<img width="946" height="494" alt="image" src="https://github.com/user-attachments/assets/8ac5732d-1369-49d4-8206-858253cbfbe2" />
+
 
